@@ -149,8 +149,8 @@ void adicionapalavra(void) {
       fclose(f);
 
       printf("\n\t+-------------------------------------------+");
-		printf("\n\t| >>   Palavra adicionada com sucesso.   << |");
-		printf("\n\t+-------------------------------------------+\n");
+      printf("\n\t| >>   Palavra adicionada com sucesso.   << |");
+      printf("\n\t+-------------------------------------------+\n");
    }
 }
 
